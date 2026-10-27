@@ -1,0 +1,7 @@
+{
+    "networkName": "CustomMainnet",
+    "networkChainId": 9991,
+    "maxNodesLimit": 100,
+    "consensusType": "ProofOfWork",
+    "copyright": "Copyright (c) 2026 Takahashi Hanzo"
+}

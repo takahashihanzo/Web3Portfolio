@@ -1,0 +1,12 @@
+{
+  "name": "web3portfolio",
+  "version": "1.0.0",
+  "description": "Custom blockchain node and smart contract logic portfolio",
+  "main": "core/nodeServer.js",
+  "scripts": {
+    "start": "node core/nodeServer.js",
+    "test": "mocha test/"
+  },
+  "author": "Takahashi Hanzo",
+  "license": "ISC"
+}
